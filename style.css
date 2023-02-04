@@ -1,0 +1,64 @@
+body, #flutuar {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: #828282;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  width: 626px;
+  margin: 0 auto;
+}
+
+#main img {
+  margin: 64px auto 32px;
+}
+
+#main h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  color: #3F3D56;
+  margin: 0 auto 16px;
+}
+
+#main h1 span {
+  color: #EE24FF;
+  font-weight: 700;
+}
+
+strong, a {
+  color: #3F3D56;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+#p1 {
+  line-height: 22px;
+  width: 540px;
+  margin: 0 auto;
+}
+
+#p2 {
+  line-height: 20px;
+  margin: 32px auto 64px;
+}
+
+#footer .line {
+  width: 391px;
+  margin: 0 auto 16px;
+  border: 1px solid #ECEFF2;
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+#footer #wave {
+  margin: 41px auto 0;
+  width: 100%;
+}
